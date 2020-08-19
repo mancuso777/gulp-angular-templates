@@ -20,7 +20,7 @@
     "templates"
   ],
   "dependencies": {
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.19",
     "gulp-util": "~2.2.5",
     "cheerio": "^0.13.1"
   },
